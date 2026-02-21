@@ -1,0 +1,23 @@
+# Ambiente virtual Python
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# Arquitetura __pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários e logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Listas de produtos do usuário (opcional, remova se quiser subir para o Git)
+produtos.txt

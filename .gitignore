@@ -18,6 +18,3 @@ __pycache__/
 
 # Mac OS
 .DS_Store
-
-# Listas de produtos do usuário (opcional, remova se quiser subir para o Git)
-produtos.txt
